@@ -7,11 +7,12 @@
       "command": "git pull",
       "problemMatcher": [],
       "presentation": {
-        "echo": true,
-        "reveal": "always",
+        "echo": false,
+        "reveal": "never",
         "focus": false,
-        "panel": "shared"
-      }
+        "panel": "silent"
+        }
+
     }
   ]
 }
